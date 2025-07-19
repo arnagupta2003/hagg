@@ -1,0 +1,33 @@
+{
+  "title": "2 BHK Apartment for Rent in Doddanekundi, Kartik Nagar Bangalore",
+  "society_name": "Akme Ballet",
+  "society_url": "https://www.magicbricks.com/akme-ballet-doddanekundi-bangalore-pdpid-4d4235303330343733",
+  "posted_date": " Jul 17, '25",
+  "summary": {
+    "Furnishing": "Semi-Furnished",
+    "Bathroom": "2",
+    "Tenant Preferred": "Bachelors",
+    "Availability": "Immediately",
+    "Super Area": "1285 sqft",
+    "Floor": "1 out of 16",
+    "facing": "North",
+    "overlooking": "Pool, Garden/Park, Main Road",
+    "Ownership": "Freehold",
+    "Balcony": "2"
+  },
+  "rent_price": "65000",
+  "description": "good gated community near bagmane tech park The monthly maintenance is Rs 5000/-.",
+  "agent_name": " V R Real Estate",
+  "operating_since": " 2000",
+  "json_ld": {
+    "url": "https://www.magicbricks.com/propertyDetails/2-BHK-1285-Sq-ft-Multistorey-Apartment-FOR-Rent-Doddanekundi-in-Bangalore&id=4d423739333431383939",
+    "image": "https://img.staticmb.com/mbimages/project/Photo_h310_w462/2023/11/14/Project-Photo-10-Akme-Ballet-Bangalore-5030473_1600_900_310_462.jpg",
+    "location": "Doddanekundi",
+    "latitude": "12.972078",
+    "longitude": "77.692085",
+    "rent_start": "2025-07-16T23:45:23.000Z",
+    "rent_end": "2025-09-14T23:45:23.000Z",
+    "agent": "Mahesh",
+    "price": 65000
+  }
+}
