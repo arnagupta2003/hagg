@@ -5,8 +5,8 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Install dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY req.txt .
+RUN pip install --no-cache-dir -r req.txt
 
 # Copy app code
 COPY . .
@@ -15,9 +15,9 @@ COPY . .
 EXPOSE 8000
 
 # Set environment variables (can be overridden at runtime)
-ENV DB_HOST=localhost
+ENV DB_HOST=127.0.0.1
 ENV DB_USER=postgres
-ENV DB_PASS=password
+ENV DB_PASS=postgres
 ENV DB_NAME=hagg
 
 # Command to run the app
